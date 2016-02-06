@@ -187,10 +187,12 @@ background: #03A678;
 	color: rgb(189, 189, 189);
 	padding: 2px 10px;
 	line-height: 47px;
-	background: rgba(128, 128, 128, 0.48);
+	/*background: rgba(128, 128, 128, 0.48);*/
+	background: whitesmoke !important;
 }
 #logo span{
 	font-size: 15px;
+	color: #79465C;
 }
 .user-profile{margin-right: 5px;}
 .user-profile>a {
