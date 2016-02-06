@@ -1,3 +1,4 @@
+/db/*
 /web/bundles/
 /app/bootstrap.php.cache
 /app/cache/*
@@ -9,6 +10,7 @@
 /vendor/
 /bin/
 /composer.phar
+/app/check.php 
 
 .php~
 
